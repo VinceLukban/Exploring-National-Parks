@@ -20,6 +20,8 @@ This page hosts the information for parks and extended information about each sp
 ## Plan a Trip
 This page is designed for people who have a national park in mind that they want to visit. The website helps the user plan out a schedule for their trip through their choice of park as well as the dates they are intending to visit. After clicking the "Plan a Trip" button, the user will see a now populated schedule of the days they inputted, along with the suggested itinerary for each day, split into a Morning, Afternoon, and Evening schedule, along with the forecasted weather for that day. Additionally, based on the park, some alerts may appear to let the user know of any potential events such as park closures or nearby weather to be wary of.
 
+## Park Safety (new feature)
+This page displays some safety guidelines when roaming any of the national parks. It also displays Temple University's Twitter feed.
 
 # How to run
 To see the current deployment, click [Here](https://exploring-national-parks-uqb1.vercel.app/).
@@ -41,5 +43,6 @@ Follow this project board to know the latest status of the project:[https://gith
     1. `npm -v`
     2. `node -v`
 4. `cd exploring-national-parks `(the lowercase one)
-5. `npm install` will install the necessary packages 
-6. `npm start` will open the app in a new tab with a localhost server
+5. `npm install` will install the necessary packages
+6. `npm install react-twitter-feed' (will install the Twitter package)
+7. `npm start` will open the app in a new tab with a localhost server
