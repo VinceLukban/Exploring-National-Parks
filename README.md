@@ -44,5 +44,5 @@ Follow this project board to know the latest status of the project:[https://gith
     2. `node -v`
 4. `cd exploring-national-parks `(the lowercase one)
 5. `npm install` will install the necessary packages
-6. `npm install react-twitter-feed' (will install the Twitter package)
+6. `npm install react-twitter-feed` (will install the Twitter package)
 7. `npm start` will open the app in a new tab with a localhost server
