@@ -4,10 +4,11 @@ This is a web application intended to revolutionize how users interact with info
 ![This is a initial screenshot.](newHomepage.png)
 
 # Update Overview:
+
+## Park Safety (new feature)
+This new web page displays some safety guidelines when roaming any of the national parks. It also displays Temple University's Twitter feed.
 > [!NOTE]
 > must run **npm install react-twitter-feed** to install the Twitter package.
-## Park Safety (new feature)
-This page displays some safety guidelines when roaming any of the national parks. It also displays Temple University's Twitter feed.
 
 # Website Overview
 The web application is intended for a wide range of people accomodating for a range of technical abilities as well.
